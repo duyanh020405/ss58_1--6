@@ -1,0 +1,58 @@
+{
+  "students": [
+    {
+      "name": "duy3",
+      "email": "duy3@gmail.com",
+      "address": "khu 123",
+      "phone": 12345627,
+      "statut": true,
+      "created_at": "01/01/2002",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "duy2",
+      "email": "21@gmail.com",
+      "address": "khu 12",
+      "phone": 1234562,
+      "statut": true,
+      "created_at": "01/01/2002"
+    },
+    {
+      "id": 4,
+      "name": "duy4",
+      "email": "41@gmail.com",
+      "address": "khu 14",
+      "phone": 1234564,
+      "statut": true,
+      "created_at": "01/01/2004"
+    },
+    {
+      "id": 5,
+      "name": "duy5",
+      "email": "451@gmail.com",
+      "address": "khu 154",
+      "phone": 12345645,
+      "statut": true,
+      "created_at": "01/01/2005"
+    },
+    {
+      "name": "Lão Hạc",
+      "email": "kk2@gmail.com",
+      "address": "Làng Vũ Đại",
+      "phone": "111111",
+      "statut": false,
+      "created_at": "hhhi",
+      "id": 6
+    },
+    {
+      "name": "Lão Hạc",
+      "email": "kk2@gmail.com",
+      "address": "Làng Vũ Đại",
+      "phone": "111111",
+      "statut": true,
+      "created_at": "hhhi",
+      "id": 7
+    }
+  ]
+}
